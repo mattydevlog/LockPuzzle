@@ -14,11 +14,6 @@ public class LockPuzzle : MonoBehaviour
 	[SerializeField]
 	private float jumpHeight = 10f;
 
-	[SerializeField]
-	private GameObject button1;
-
-	[SerializeField]
-	private GameObject button2;
 
 	[SerializeField]
 	private Transform puzzleFrame;
@@ -62,5 +57,6 @@ public class LockPuzzle : MonoBehaviour
 
 	}
 
-
 }
+
+
